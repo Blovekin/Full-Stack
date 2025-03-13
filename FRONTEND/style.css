@@ -1,29 +1,5 @@
-body{
-    background-color: black;
+.background{
+    background-color: lightslategray;
 }
-label{
-    color: black;
-}
-textarea{
-    background-color: blueviolet;
-    
-}
-.header {
-    background-color: darkblue;
-    color: white;
-    padding: 20px 0;
-    text-align: center;
-    width: 100%;
-}
-h1{
-    text-align: center;
-    
-}
-.BAN{
-    width: 40px;
-    height: 40px;
-    top: 0;
-    left: 10;
-    right: 10;
-    bottom: 0;
-}
+
+
